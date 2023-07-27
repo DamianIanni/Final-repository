@@ -1,0 +1,49 @@
+/* .navBarContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: coral;
+    height: 10vh;
+    width: 100%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.slash {
+    width: 6px;
+    height: 8vh;
+    background-color: white;
+    border-radius: 6px;
+    transform: rotate(45deg);
+}
+
+.stackInfo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.divMenu {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+} */
+
+/* .font {
+    font-size: 20px;
+    font-weight: bold
+} */
+
+.appBarClass {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin-right: 10px;
+    background-color: none;
+}
+
+@media  (max-width: 400px)  {
+    
+}
